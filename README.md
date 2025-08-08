@@ -1,6 +1,6 @@
 # Obstacle Avoidance & Auto Parking System
 
-## ![WhatsApp Image 2025-08-08 at 18 44 21_33975ec5](https://github.com/user-attachments/assets/0fa71fdd-db06-4578-bdd8-fc298f14263c)![WhatsApp Image 2025-08-08 at 18 44 21_c7622443](https://github.com/user-attachments/assets/4595b351-10c1-48d4-8c79-7f83617e5702)
+## ![WhatsApp Image 2025-08-08 at 18 44 21_33975ec5](https://github.com/user-attachments/assets/0fa71fdd-db06-4578-bdd8-fc298f14263c) [WhatsApp Image 2025-08-08 at 18 44 21_c7622443](https://github.com/user-attachments/assets/4595b351-10c1-48d4-8c79-7f83617e5702)
 
 verview
 The **Obstacle Avoidance & Auto Parking System** is an embedded systems project designed to autonomously detect and avoid obstacles while also providing automatic parking capabilities.  
