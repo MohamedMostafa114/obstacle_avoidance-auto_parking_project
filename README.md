@@ -17,8 +17,7 @@ This project was developed as part of an **Embedded Systems** course to demonstr
 - **Mohamed Mostafa** – ID: 2205051  
 - **Youssef Mahmoud** – ID: 2205071  
 
-Prepared for: **Dr. Mohamed Elhabrook**  
-Additional review: **Daniel Gallego**  
+Prepared for: **Dr. Mohamed Elhabrook**   
 
 ---
 
